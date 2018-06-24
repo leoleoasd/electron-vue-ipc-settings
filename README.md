@@ -112,3 +112,6 @@ this.$store.commit('set',{
 
 has: 返回指定keyPath是否存在<br>
 `this.$store.getters.has('foo.bar')`
+
+# 鸣谢:
+[electron-settings](https://github.com/nathanbuchar/electron-settings)
